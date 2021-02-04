@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.exe
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.deps.json
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.runtimeconfig.json
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.dll
+C:\Users\djnov\source\repos\ContriesApp\bin\Debug\netcoreapp3.1\ContriesApp.pdb
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.AssemblyInfo.cs
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.dll
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.pdb
+C:\Users\djnov\source\repos\ContriesApp\obj\Debug\netcoreapp3.1\ContriesApp.genruntimeconfig.cache
